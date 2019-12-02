@@ -7,10 +7,7 @@
 - <code> cd InteractiveTCPClient </code>
 - <code> python3 ITCPC.py {ip} {port} </code>
 
-#### Support
-Protocols that have been tested:
-<small>(It currently supports only HTTP)</small>
+#### Support/Tested With
 - [✓] HTTP
-<br/>
 - [✗] HTTPS
 - [✗] MySQL/MariaDB
